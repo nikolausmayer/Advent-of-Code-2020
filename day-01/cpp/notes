@@ -1,0 +1,1 @@
+The naive approach is fast enough for 200 input elements. Even Part 2 only has 200^3 = 8,000,000 steps which just takes no time at all. It is not even worth the effort to restrict the inner loops to only process elements past the current outer-loop element.
