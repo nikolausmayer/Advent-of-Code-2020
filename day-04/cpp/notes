@@ -1,0 +1,3 @@
+C++ is *not* the right language for structured-text parsing.
+
+The validations in part 2 were easy enough to write, but a bunch of work. I admit that I did not bother writing test cases for them...
