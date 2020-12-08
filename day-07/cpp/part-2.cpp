@@ -53,7 +53,7 @@ int main(int argc, char* argv[])
     queue.pop_front();
   }
 
-  std::cout << total_bag_counter << " indivitual bags are required inside a single shiny gold bag."
+  std::cout << total_bag_counter << " individual bags are required inside a single shiny gold bag."
             << std::endl;
 
   return EXIT_SUCCESS;
