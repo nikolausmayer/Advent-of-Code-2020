@@ -1,0 +1,1 @@
+This day was *a lot* of code writing, but conceptionally one of the easiest days so far. I was lucky that I already wrote part 1 as a separable sum (i.e. processing X, Y, and Z separately instead of using a 6-depth nested loop). This made the extension to 4 dimensions trivial, both code-wise and computationally.
