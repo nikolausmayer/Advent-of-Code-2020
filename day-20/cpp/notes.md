@@ -1,0 +1,1 @@
+What a slog of a day. I was initially happy to see an image-processing task, but this day just required an absolute metric ton of code. My solution could be refactored into something a lot more elegant and less redundant, but it works and I am actually kind of proud of how my approach finds the correct alignment of all image tiles.
