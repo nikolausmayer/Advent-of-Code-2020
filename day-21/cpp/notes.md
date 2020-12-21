@@ -1,0 +1,1 @@
+After the previous day, this day was a delight: easy input parsing, a clever but simple part 1, and a straightforward extension for part 2 that requires a bit of reasoning about the specific input for this task.
