@@ -1,0 +1,1 @@
+Conceptually, this day is simple. It does not even require any fancy algorithms. However, as always, I failed to correctly read the instructions multiple times which made part 2 more work than necessary. I'm wondering what the best choices are for the data structures... mine are not (they are too slow).
